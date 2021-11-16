@@ -1,0 +1,16 @@
+C:\Users\aniwo\source\repos\ррррррррррррр\Zaytseva.Lab4.Exercise3\bin\Debug\net5.0\Zaytseva.Lab4.Exercise3.exe
+C:\Users\aniwo\source\repos\ррррррррррррр\Zaytseva.Lab4.Exercise3\bin\Debug\net5.0\Zaytseva.Lab4.Exercise3.deps.json
+C:\Users\aniwo\source\repos\ррррррррррррр\Zaytseva.Lab4.Exercise3\bin\Debug\net5.0\Zaytseva.Lab4.Exercise3.runtimeconfig.json
+C:\Users\aniwo\source\repos\ррррррррррррр\Zaytseva.Lab4.Exercise3\bin\Debug\net5.0\Zaytseva.Lab4.Exercise3.runtimeconfig.dev.json
+C:\Users\aniwo\source\repos\ррррррррррррр\Zaytseva.Lab4.Exercise3\bin\Debug\net5.0\Zaytseva.Lab4.Exercise3.dll
+C:\Users\aniwo\source\repos\ррррррррррррр\Zaytseva.Lab4.Exercise3\bin\Debug\net5.0\ref\Zaytseva.Lab4.Exercise3.dll
+C:\Users\aniwo\source\repos\ррррррррррррр\Zaytseva.Lab4.Exercise3\bin\Debug\net5.0\Zaytseva.Lab4.Exercise3.pdb
+C:\Users\aniwo\source\repos\ррррррррррррр\Zaytseva.Lab4.Exercise3\obj\Debug\net5.0\Zaytseva.Lab4.Exercise3.csproj.AssemblyReference.cache
+C:\Users\aniwo\source\repos\ррррррррррррр\Zaytseva.Lab4.Exercise3\obj\Debug\net5.0\Zaytseva.Lab4.Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aniwo\source\repos\ррррррррррррр\Zaytseva.Lab4.Exercise3\obj\Debug\net5.0\Zaytseva.Lab4.Exercise3.AssemblyInfoInputs.cache
+C:\Users\aniwo\source\repos\ррррррррррррр\Zaytseva.Lab4.Exercise3\obj\Debug\net5.0\Zaytseva.Lab4.Exercise3.AssemblyInfo.cs
+C:\Users\aniwo\source\repos\ррррррррррррр\Zaytseva.Lab4.Exercise3\obj\Debug\net5.0\Zaytseva.Lab4.Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\aniwo\source\repos\ррррррррррррр\Zaytseva.Lab4.Exercise3\obj\Debug\net5.0\Zaytseva.Lab4.Exercise3.dll
+C:\Users\aniwo\source\repos\ррррррррррррр\Zaytseva.Lab4.Exercise3\obj\Debug\net5.0\ref\Zaytseva.Lab4.Exercise3.dll
+C:\Users\aniwo\source\repos\ррррррррррррр\Zaytseva.Lab4.Exercise3\obj\Debug\net5.0\Zaytseva.Lab4.Exercise3.pdb
+C:\Users\aniwo\source\repos\ррррррррррррр\Zaytseva.Lab4.Exercise3\obj\Debug\net5.0\Zaytseva.Lab4.Exercise3.genruntimeconfig.cache

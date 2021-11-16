@@ -1,0 +1,16 @@
+C:\Users\aniwo\source\repos\ррррррррррррр\ррррррррррррр\bin\Debug\net5.0\Zaytseva.Lab4.Exercise1.exe
+C:\Users\aniwo\source\repos\ррррррррррррр\ррррррррррррр\bin\Debug\net5.0\Zaytseva.Lab4.Exercise1.deps.json
+C:\Users\aniwo\source\repos\ррррррррррррр\ррррррррррррр\bin\Debug\net5.0\Zaytseva.Lab4.Exercise1.runtimeconfig.json
+C:\Users\aniwo\source\repos\ррррррррррррр\ррррррррррррр\bin\Debug\net5.0\Zaytseva.Lab4.Exercise1.runtimeconfig.dev.json
+C:\Users\aniwo\source\repos\ррррррррррррр\ррррррррррррр\bin\Debug\net5.0\Zaytseva.Lab4.Exercise1.dll
+C:\Users\aniwo\source\repos\ррррррррррррр\ррррррррррррр\bin\Debug\net5.0\ref\Zaytseva.Lab4.Exercise1.dll
+C:\Users\aniwo\source\repos\ррррррррррррр\ррррррррррррр\bin\Debug\net5.0\Zaytseva.Lab4.Exercise1.pdb
+C:\Users\aniwo\source\repos\ррррррррррррр\ррррррррррррр\obj\Debug\net5.0\Zaytseva.Lab4.Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aniwo\source\repos\ррррррррррррр\ррррррррррррр\obj\Debug\net5.0\Zaytseva.Lab4.Exercise1.AssemblyInfoInputs.cache
+C:\Users\aniwo\source\repos\ррррррррррррр\ррррррррррррр\obj\Debug\net5.0\Zaytseva.Lab4.Exercise1.AssemblyInfo.cs
+C:\Users\aniwo\source\repos\ррррррррррррр\ррррррррррррр\obj\Debug\net5.0\Zaytseva.Lab4.Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\aniwo\source\repos\ррррррррррррр\ррррррррррррр\obj\Debug\net5.0\Zaytseva.Lab4.Exercise1.dll
+C:\Users\aniwo\source\repos\ррррррррррррр\ррррррррррррр\obj\Debug\net5.0\ref\Zaytseva.Lab4.Exercise1.dll
+C:\Users\aniwo\source\repos\ррррррррррррр\ррррррррррррр\obj\Debug\net5.0\Zaytseva.Lab4.Exercise1.pdb
+C:\Users\aniwo\source\repos\ррррррррррррр\ррррррррррррр\obj\Debug\net5.0\Zaytseva.Lab4.Exercise1.genruntimeconfig.cache
+C:\Users\aniwo\source\repos\ррррррррррррр\ррррррррррррр\obj\Debug\net5.0\Zaytseva.Lab4.Exercise1.csproj.AssemblyReference.cache

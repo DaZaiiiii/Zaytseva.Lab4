@@ -1,0 +1,16 @@
+C:\Users\aniwo\source\repos\ррррррррррррр\ррррррррррррр\bin\Debug\net5.0\ррррррррррррр.exe
+C:\Users\aniwo\source\repos\ррррррррррррр\ррррррррррррр\bin\Debug\net5.0\ррррррррррррр.deps.json
+C:\Users\aniwo\source\repos\ррррррррррррр\ррррррррррррр\bin\Debug\net5.0\ррррррррррррр.runtimeconfig.json
+C:\Users\aniwo\source\repos\ррррррррррррр\ррррррррррррр\bin\Debug\net5.0\ррррррррррррр.runtimeconfig.dev.json
+C:\Users\aniwo\source\repos\ррррррррррррр\ррррррррррррр\bin\Debug\net5.0\ррррррррррррр.dll
+C:\Users\aniwo\source\repos\ррррррррррррр\ррррррррррррр\bin\Debug\net5.0\ref\ррррррррррррр.dll
+C:\Users\aniwo\source\repos\ррррррррррррр\ррррррррррррр\bin\Debug\net5.0\ррррррррррррр.pdb
+C:\Users\aniwo\source\repos\ррррррррррррр\ррррррррррррр\obj\Debug\net5.0\ррррррррррррр.csproj.AssemblyReference.cache
+C:\Users\aniwo\source\repos\ррррррррррррр\ррррррррррррр\obj\Debug\net5.0\ррррррррррррр.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aniwo\source\repos\ррррррррррррр\ррррррррррррр\obj\Debug\net5.0\ррррррррррррр.AssemblyInfoInputs.cache
+C:\Users\aniwo\source\repos\ррррррррррррр\ррррррррррррр\obj\Debug\net5.0\ррррррррррррр.AssemblyInfo.cs
+C:\Users\aniwo\source\repos\ррррррррррррр\ррррррррррррр\obj\Debug\net5.0\ррррррррррррр.csproj.CoreCompileInputs.cache
+C:\Users\aniwo\source\repos\ррррррррррррр\ррррррррррррр\obj\Debug\net5.0\ррррррррррррр.dll
+C:\Users\aniwo\source\repos\ррррррррррррр\ррррррррррррр\obj\Debug\net5.0\ref\ррррррррррррр.dll
+C:\Users\aniwo\source\repos\ррррррррррррр\ррррррррррррр\obj\Debug\net5.0\ррррррррррррр.pdb
+C:\Users\aniwo\source\repos\ррррррррррррр\ррррррррррррр\obj\Debug\net5.0\ррррррррррррр.genruntimeconfig.cache
