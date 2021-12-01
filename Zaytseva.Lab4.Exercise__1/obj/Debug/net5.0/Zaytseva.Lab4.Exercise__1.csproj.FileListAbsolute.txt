@@ -1,0 +1,16 @@
+C:\Users\aniwo\source\repos\ррррррррррррр\Zaytseva.Lab4.Exercise__1\bin\Debug\net5.0\Zaytseva.Lab4.Exercise__1.exe
+C:\Users\aniwo\source\repos\ррррррррррррр\Zaytseva.Lab4.Exercise__1\bin\Debug\net5.0\Zaytseva.Lab4.Exercise__1.deps.json
+C:\Users\aniwo\source\repos\ррррррррррррр\Zaytseva.Lab4.Exercise__1\bin\Debug\net5.0\Zaytseva.Lab4.Exercise__1.runtimeconfig.json
+C:\Users\aniwo\source\repos\ррррррррррррр\Zaytseva.Lab4.Exercise__1\bin\Debug\net5.0\Zaytseva.Lab4.Exercise__1.runtimeconfig.dev.json
+C:\Users\aniwo\source\repos\ррррррррррррр\Zaytseva.Lab4.Exercise__1\bin\Debug\net5.0\Zaytseva.Lab4.Exercise__1.dll
+C:\Users\aniwo\source\repos\ррррррррррррр\Zaytseva.Lab4.Exercise__1\bin\Debug\net5.0\ref\Zaytseva.Lab4.Exercise__1.dll
+C:\Users\aniwo\source\repos\ррррррррррррр\Zaytseva.Lab4.Exercise__1\bin\Debug\net5.0\Zaytseva.Lab4.Exercise__1.pdb
+C:\Users\aniwo\source\repos\ррррррррррррр\Zaytseva.Lab4.Exercise__1\obj\Debug\net5.0\Zaytseva.Lab4.Exercise__1.csproj.AssemblyReference.cache
+C:\Users\aniwo\source\repos\ррррррррррррр\Zaytseva.Lab4.Exercise__1\obj\Debug\net5.0\Zaytseva.Lab4.Exercise__1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aniwo\source\repos\ррррррррррррр\Zaytseva.Lab4.Exercise__1\obj\Debug\net5.0\Zaytseva.Lab4.Exercise__1.AssemblyInfoInputs.cache
+C:\Users\aniwo\source\repos\ррррррррррррр\Zaytseva.Lab4.Exercise__1\obj\Debug\net5.0\Zaytseva.Lab4.Exercise__1.AssemblyInfo.cs
+C:\Users\aniwo\source\repos\ррррррррррррр\Zaytseva.Lab4.Exercise__1\obj\Debug\net5.0\Zaytseva.Lab4.Exercise__1.csproj.CoreCompileInputs.cache
+C:\Users\aniwo\source\repos\ррррррррррррр\Zaytseva.Lab4.Exercise__1\obj\Debug\net5.0\Zaytseva.Lab4.Exercise__1.dll
+C:\Users\aniwo\source\repos\ррррррррррррр\Zaytseva.Lab4.Exercise__1\obj\Debug\net5.0\ref\Zaytseva.Lab4.Exercise__1.dll
+C:\Users\aniwo\source\repos\ррррррррррррр\Zaytseva.Lab4.Exercise__1\obj\Debug\net5.0\Zaytseva.Lab4.Exercise__1.pdb
+C:\Users\aniwo\source\repos\ррррррррррррр\Zaytseva.Lab4.Exercise__1\obj\Debug\net5.0\Zaytseva.Lab4.Exercise__1.genruntimeconfig.cache
